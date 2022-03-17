@@ -1,0 +1,66 @@
+{
+  "uid" : "52705eea8888fb15",
+  "name" : "test_get_token",
+  "fullName" : "test_work.TestWework#test_get_token",
+  "historyId" : "2d5d5ddc3b106d6f65b8345efc7f5775",
+  "time" : {
+    "start" : 1647500900998,
+    "stop" : 1647500909819,
+    "duration" : 8821
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1647500900997,
+      "stop" : 1647500900997,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_work"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestWework"
+  }, {
+    "name" : "host",
+    "value" : "ZXJ"
+  }, {
+    "name" : "thread",
+    "value" : "11012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_work"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52705eea8888fb15.json",
+  "parameterValues" : [ ]
+}

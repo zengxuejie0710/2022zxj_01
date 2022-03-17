@@ -1,0 +1,81 @@
+[ {
+  "buildOrder" : 5,
+  "reportUrl" : "http://127.0.0.1:8081/job/test/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://127.0.0.1:8081/job/test/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://127.0.0.1:8081/job/test/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://127.0.0.1:8081/job/test/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://127.0.0.1:8888/jenkins/job/test/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://127.0.0.1:8888/jenkins/job/test/24/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://127.0.0.1:8888/jenkins/job/test/23/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://127.0.0.1:8888/jenkins/job/test/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 21,
+  "reportUrl" : "nulljob/test/21/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+}, {
+  "buildOrder" : 20,
+  "reportUrl" : "nulljob/test/20/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 187
+  }
+} ]

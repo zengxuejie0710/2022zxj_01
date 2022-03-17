@@ -1,0 +1,15 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "f2d76ca3a95db9c44f6fc2004be2b0e9",
+    "name" : "通讯录管理",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  } ]
+}

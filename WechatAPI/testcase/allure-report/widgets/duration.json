@@ -1,0 +1,141 @@
+[ {
+  "uid" : "80a096b0751e08ba",
+  "name" : "整体增删改查用户",
+  "time" : {
+    "start" : 1647503138458,
+    "stop" : 1647503142502,
+    "duration" : 4044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a344fb8ec00aba3b",
+  "name" : "更新用户用户",
+  "time" : {
+    "start" : 1647503131792,
+    "stop" : 1647503133119,
+    "duration" : 1327
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "923db766adbeb0d2",
+  "name" : "查询用户",
+  "time" : {
+    "start" : 1647503130913,
+    "stop" : 1647503131683,
+    "duration" : 770
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c780dc8e8c929e62",
+  "name" : "整体增删改查用户",
+  "time" : {
+    "start" : 1647503134321,
+    "stop" : 1647503138452,
+    "duration" : 4131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ded77b570e664e01",
+  "name" : "test_get_token",
+  "time" : {
+    "start" : 1647503128976,
+    "stop" : 1647503129757,
+    "duration" : 781
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f082902d9f331e9e",
+  "name" : "整体增删改查用户",
+  "time" : {
+    "start" : 1647503152805,
+    "stop" : 1647503157409,
+    "duration" : 4604
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "603719822c68eb24",
+  "name" : "整体增删改查用户",
+  "time" : {
+    "start" : 1647503157516,
+    "stop" : 1647503165101,
+    "duration" : 7585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed5b254f58bbd554",
+  "name" : "整体增删改查用户",
+  "time" : {
+    "start" : 1647503169312,
+    "stop" : 1647503173205,
+    "duration" : 3893
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff4e0cd1a307540d",
+  "name" : "删除用户",
+  "time" : {
+    "start" : 1647503133122,
+    "stop" : 1647503134186,
+    "duration" : 1064
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eacfafb2b3ad5614",
+  "name" : "整体增删改查用户",
+  "time" : {
+    "start" : 1647503142507,
+    "stop" : 1647503146727,
+    "duration" : 4220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d72f1315bd87d03a",
+  "name" : "创建用户",
+  "time" : {
+    "start" : 1647503129757,
+    "stop" : 1647503130909,
+    "duration" : 1152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58f009275fc63ed2",
+  "name" : "test_data",
+  "time" : {
+    "start" : 1647503128973,
+    "stop" : 1647503128973,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19adf78c0c1881fd",
+  "name" : "整体增删改查用户",
+  "time" : {
+    "start" : 1647503146733,
+    "stop" : 1647503152685,
+    "duration" : 5952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "292848e69eccf799",
+  "name" : "整体增删改查用户",
+  "time" : {
+    "start" : 1647503165221,
+    "stop" : 1647503169286,
+    "duration" : 4065
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

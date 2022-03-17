@@ -1,0 +1,2686 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ZXJ",
+    "children" : [ {
+      "name" : "11012-MainThread",
+      "children" : [ {
+        "name" : "test_get_token",
+        "uid" : "52705eea8888fb15",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500900998,
+          "stop" : 1647500909819,
+          "duration" : 8821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "b3416e30d86396fa",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500921448,
+          "stop" : 1647500939674,
+          "duration" : 18226
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "6fa10cb87657863",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500953991,
+          "stop" : 1647500963112,
+          "duration" : 9121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "118cba9274c9e596",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500989635,
+          "stop" : 1647500994248,
+          "duration" : 4613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "b4e30bf8f4a1a084",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500918303,
+          "stop" : 1647500921338,
+          "duration" : 3035
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "9226b8fc0f79e1a0",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500915972,
+          "stop" : 1647500918294,
+          "duration" : 2322
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "7d33ee9e6ab2bd4a",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500977709,
+          "stop" : 1647500982504,
+          "duration" : 4795
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "63587fb4d505505d",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500900958,
+          "stop" : 1647500900959,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "80f4c38f5fca938e",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500982542,
+          "stop" : 1647500989472,
+          "duration" : 6930
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "8063e4ffc5193055",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500963159,
+          "stop" : 1647500977673,
+          "duration" : 14514
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "5dbb346f39bac2ee",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500915162,
+          "stop" : 1647500915945,
+          "duration" : 783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "e7e94aba9554d7ba",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500909848,
+          "stop" : 1647500915125,
+          "duration" : 5277
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "fb81384a07a4891c",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500949949,
+          "stop" : 1647500953835,
+          "duration" : 3886
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "54d08dfe3b901e5e",
+        "parentUid" : "989073a20b0d8749c9602a3def37f20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500939815,
+          "stop" : 1647500949929,
+          "duration" : 10114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      } ],
+      "uid" : "989073a20b0d8749c9602a3def37f20b"
+    }, {
+      "name" : "1440-MainThread",
+      "children" : [ {
+        "name" : "整体增删改查用户",
+        "uid" : "cb4ceb6856fe45f4",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419588444,
+          "stop" : 1647419592333,
+          "duration" : 3889
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "73c5f008b1c9022a",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419577546,
+          "stop" : 1647419578325,
+          "duration" : 779
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "a800c420e270525a",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419579601,
+          "stop" : 1647419580680,
+          "duration" : 1079
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "6345feb749b4799b",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419575235,
+          "stop" : 1647419576233,
+          "duration" : 998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "e96585be64bb6c65",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419608631,
+          "stop" : 1647419613311,
+          "duration" : 4680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "a6aec59409b8d61c",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419604770,
+          "stop" : 1647419608616,
+          "duration" : 3846
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "7bebd45cc8b0ab0",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419578338,
+          "stop" : 1647419579596,
+          "duration" : 1258
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_data",
+        "uid" : "8415bc7efa0ac1ce",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419575235,
+          "stop" : 1647419575235,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "c68f3706090cb769",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419576249,
+          "stop" : 1647419577546,
+          "duration" : 1297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "311e6f92134556b7",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419592348,
+          "stop" : 1647419596748,
+          "duration" : 4400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "fe4e2ae53aad02a6",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419596748,
+          "stop" : 1647419600858,
+          "duration" : 4110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "c26d0a7bd83bf251",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419584588,
+          "stop" : 1647419588444,
+          "duration" : 3856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "10db40e004e60f5",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419580686,
+          "stop" : 1647419584588,
+          "duration" : 3902
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "d3c620e8feb502ca",
+        "parentUid" : "16d7893eac11d4786dfa1e7a42f5d229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647419600858,
+          "stop" : 1647419604770,
+          "duration" : 3912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      } ],
+      "uid" : "16d7893eac11d4786dfa1e7a42f5d229"
+    }, {
+      "name" : "60540-MainThread",
+      "children" : [ {
+        "name" : "更新用户用户",
+        "uid" : "cff525994f2d4037",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497278872,
+          "stop" : 1647497280107,
+          "duration" : 1235
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "b17e95dec6b29597",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497292759,
+          "stop" : 1647497296695,
+          "duration" : 3936
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "6d8d77885dad24e8",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497280110,
+          "stop" : 1647497281133,
+          "duration" : 1023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "38d48cd347d8539d",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497308341,
+          "stop" : 1647497312329,
+          "duration" : 3988
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "960903d7bc97be2",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497281137,
+          "stop" : 1647497285032,
+          "duration" : 3895
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "67c488d7d2e995b5",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497269195,
+          "stop" : 1647497269195,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "534ab5780887c0c6",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497300676,
+          "stop" : 1647497304551,
+          "duration" : 3875
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "fce59192b86f0249",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497285038,
+          "stop" : 1647497288979,
+          "duration" : 3941
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "a22fe0bd6bd5f23b",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497277504,
+          "stop" : 1647497278868,
+          "duration" : 1364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "59dde64e2f647376",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497288987,
+          "stop" : 1647497292754,
+          "duration" : 3767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "c0816129248de1a0",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497304557,
+          "stop" : 1647497308335,
+          "duration" : 3778
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "cfb0dbd19adbbb8f",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497272716,
+          "stop" : 1647497277504,
+          "duration" : 4788
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "787e8149351d49f6",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497296702,
+          "stop" : 1647497300671,
+          "duration" : 3969
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "de4de437db9808a1",
+        "parentUid" : "2145fee2ab09db214045379afcb170f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647497269199,
+          "stop" : 1647497272713,
+          "duration" : 3514
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2145fee2ab09db214045379afcb170f5"
+    }, {
+      "name" : "26036-MainThread",
+      "children" : [ {
+        "name" : "test_get_token",
+        "uid" : "25f9849089db7a92",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496634969,
+          "stop" : 1647496635731,
+          "duration" : 762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_data",
+        "uid" : "a3eff4b1cbb11cc1",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496634969,
+          "stop" : 1647496634969,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "2df4697104e95699",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496635735,
+          "stop" : 1647496636817,
+          "duration" : 1082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "8575db8587c4c12a",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496643817,
+          "stop" : 1647496647461,
+          "duration" : 3644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "c84faff8fdf3ffbf",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496651365,
+          "stop" : 1647496655100,
+          "duration" : 3735
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "767d2c6337fad2b9",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496659263,
+          "stop" : 1647496663433,
+          "duration" : 4170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "de918bde5e7dcb30",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496638852,
+          "stop" : 1647496639894,
+          "duration" : 1042
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "c1963e9d5a725c8e",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496667654,
+          "stop" : 1647496671573,
+          "duration" : 3919
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "403f0521c4e9dd0b",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496647466,
+          "stop" : 1647496651358,
+          "duration" : 3892
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "38abca6995624c71",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496663448,
+          "stop" : 1647496667642,
+          "duration" : 4194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "5c7bf91e49accfdf",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496636821,
+          "stop" : 1647496637515,
+          "duration" : 694
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "7e37b900063f3c93",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496637518,
+          "stop" : 1647496638848,
+          "duration" : 1330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "4ac3637427c4b314",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496655112,
+          "stop" : 1647496659257,
+          "duration" : 4145
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "6cc111d92070e11a",
+        "parentUid" : "73d228b74b796c28c597afd8695e7518",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496639898,
+          "stop" : 1647496643812,
+          "duration" : 3914
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      } ],
+      "uid" : "73d228b74b796c28c597afd8695e7518"
+    }, {
+      "name" : "2920-MainThread",
+      "children" : [ {
+        "name" : "查询用户",
+        "uid" : "26113620c4ac2168",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501388467,
+          "stop" : 1647501389221,
+          "duration" : 754
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "4e7c8eb2b9d72963",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501390610,
+          "stop" : 1647501391591,
+          "duration" : 981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "2237085006030863",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501386424,
+          "stop" : 1647501387259,
+          "duration" : 835
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "b8f89ab2ec99e4eb",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501389325,
+          "stop" : 1647501390494,
+          "duration" : 1169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "78cda0f34ab9b5df",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501410994,
+          "stop" : 1647501415061,
+          "duration" : 4067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "b2ff3355f713b39a",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501403454,
+          "stop" : 1647501407213,
+          "duration" : 3759
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "7b98d6f41a74eed8",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501407267,
+          "stop" : 1647501410984,
+          "duration" : 3717
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "fa3ee60c41840720",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501387280,
+          "stop" : 1647501388353,
+          "duration" : 1073
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_data",
+        "uid" : "4b1b0abcd51562e4",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501386424,
+          "stop" : 1647501386424,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "82ae4c0579d38381",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501419183,
+          "stop" : 1647501422888,
+          "duration" : 3705
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "818c78263547c789",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501415181,
+          "stop" : 1647501419066,
+          "duration" : 3885
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "69dfbcf17e73149c",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501391596,
+          "stop" : 1647501395411,
+          "duration" : 3815
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "9ed31589366863e4",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501399156,
+          "stop" : 1647501403319,
+          "duration" : 4163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "326254f8997bcdb0",
+        "parentUid" : "0f6650966f383623ba92ecf7c916cbf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647501395424,
+          "stop" : 1647501399137,
+          "duration" : 3713
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      } ],
+      "uid" : "0f6650966f383623ba92ecf7c916cbf4"
+    }, {
+      "name" : "21656-MainThread",
+      "children" : [ {
+        "name" : "整体增删改查用户",
+        "uid" : "64940ae675077b19",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496419356,
+          "stop" : 1647496423403,
+          "duration" : 4047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "e8111052b2185361",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496415398,
+          "stop" : 1647496419341,
+          "duration" : 3943
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "4a0b85f374a00666",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496413164,
+          "stop" : 1647496414372,
+          "duration" : 1208
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "9ea5e2c4e4aa0620",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496435575,
+          "stop" : 1647496439542,
+          "duration" : 3967
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "5bf0ee2bd84a128f",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496411304,
+          "stop" : 1647496412277,
+          "duration" : 973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "33dfcb29528b0f5d",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496431516,
+          "stop" : 1647496435570,
+          "duration" : 4054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "5a1b273cf48ad7df",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496410505,
+          "stop" : 1647496411295,
+          "duration" : 790
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "220c4459c773d34f",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496439561,
+          "stop" : 1647496443496,
+          "duration" : 3935
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "4b7409c7a90659c2",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496412321,
+          "stop" : 1647496413153,
+          "duration" : 832
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "7e0ab27f0c2fc2f2",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496414372,
+          "stop" : 1647496415391,
+          "duration" : 1019
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "b2fc89be03386561",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496443512,
+          "stop" : 1647496447571,
+          "duration" : 4059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "b5077211eb58b08b",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496410491,
+          "stop" : 1647496410492,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "a6ad76f774aa45a7",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496427616,
+          "stop" : 1647496431503,
+          "duration" : 3887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "6d205d7a7a4a3147",
+        "parentUid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496423430,
+          "stop" : 1647496427599,
+          "duration" : 4169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      } ],
+      "uid" : "c9e4ac45a6b1ac7e9cd6ba9d0adc44fb"
+    }, {
+      "name" : "44692-MainThread",
+      "children" : [ {
+        "name" : "整体增删改查用户",
+        "uid" : "8b6352bd4997fd3",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500173173,
+          "stop" : 1647500177070,
+          "duration" : 3897
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "2ac46dcc978e73fd",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500180850,
+          "stop" : 1647500184579,
+          "duration" : 3729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "36e03a91038cd844",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500172111,
+          "stop" : 1647500173168,
+          "duration" : 1057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "7c470f1563b17d61",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500177082,
+          "stop" : 1647500180844,
+          "duration" : 3762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "cc642fd8a4929528",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500200612,
+          "stop" : 1647500204645,
+          "duration" : 4033
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "a33c04fcd66a0c5b",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500170156,
+          "stop" : 1647500170889,
+          "duration" : 733
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "5e6d90672a921452",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500184587,
+          "stop" : 1647500188664,
+          "duration" : 4077
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "a51ca51e41941e50",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500168973,
+          "stop" : 1647500170151,
+          "duration" : 1178
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "5e40214d3b97e24",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500188671,
+          "stop" : 1647500192695,
+          "duration" : 4024
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "bafd305c36a806b",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500170892,
+          "stop" : 1647500172108,
+          "duration" : 1216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "1c315a0a4991d05e",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500196658,
+          "stop" : 1647500200604,
+          "duration" : 3946
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "4eebac1091ed6615",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500168229,
+          "stop" : 1647500168229,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "f0ea4458d6c23330",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500192702,
+          "stop" : 1647500196651,
+          "duration" : 3949
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "c4ce2649863b64ae",
+        "parentUid" : "a992ecaa88ea73fb98015fcca81dc959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647500168232,
+          "stop" : 1647500168973,
+          "duration" : 741
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a992ecaa88ea73fb98015fcca81dc959"
+    }, {
+      "name" : "44020-MainThread",
+      "children" : [ {
+        "name" : "删除用户",
+        "uid" : "eae133ba7ba694ab",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498566708,
+          "stop" : 1647498568319,
+          "duration" : 1611
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "59f538599a377492",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498568323,
+          "stop" : 1647498572579,
+          "duration" : 4256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "d4c75c9026b9c427",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498565470,
+          "stop" : 1647498566697,
+          "duration" : 1227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "1122645fd66edf27",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498580423,
+          "stop" : 1647498584378,
+          "duration" : 3955
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "bab026994d2edfeb",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498562734,
+          "stop" : 1647498562734,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "dd921c532fb018e0",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498584385,
+          "stop" : 1647498589682,
+          "duration" : 5297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "d3fb1d5befd5e836",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498564722,
+          "stop" : 1647498565466,
+          "duration" : 744
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "a0aec6c3892daeaf",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498572587,
+          "stop" : 1647498576526,
+          "duration" : 3939
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "65cc8dcb683f1b21",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498562738,
+          "stop" : 1647498563519,
+          "duration" : 781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "8215841b51b49e21",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498598068,
+          "stop" : 1647498602017,
+          "duration" : 3949
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "539d3963c4b6b78a",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498576532,
+          "stop" : 1647498580416,
+          "duration" : 3884
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "76ec239cee8aef36",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498589688,
+          "stop" : 1647498594174,
+          "duration" : 4486
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "78529744749bce35",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498594182,
+          "stop" : 1647498598062,
+          "duration" : 3880
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "f153aa1608e68148",
+        "parentUid" : "38fbbb3b6d1b1e2198f355bd20eb3015",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498563523,
+          "stop" : 1647498564717,
+          "duration" : 1194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38fbbb3b6d1b1e2198f355bd20eb3015"
+    }, {
+      "name" : "26332-MainThread",
+      "children" : [ {
+        "name" : "test_data",
+        "uid" : "8b24ad820b3fca87",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499625087,
+          "stop" : 1647499625087,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "3182a4ae930c008d",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499628022,
+          "stop" : 1647499629259,
+          "duration" : 1237
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "2dd35ead5c73b91c",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499625103,
+          "stop" : 1647499625869,
+          "duration" : 766
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "edebf08c9ecbde35",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499629260,
+          "stop" : 1647499630266,
+          "duration" : 1006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "95b84af67b34b063",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499659724,
+          "stop" : 1647499663590,
+          "duration" : 3866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "a9b32e961f1fb566",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499625884,
+          "stop" : 1647499627141,
+          "duration" : 1257
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "9e81b3fb604450c2",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499638950,
+          "stop" : 1647499643333,
+          "duration" : 4383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "55912adab8c16546",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499634592,
+          "stop" : 1647499638943,
+          "duration" : 4351
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "76019ca159924446",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499630271,
+          "stop" : 1647499634591,
+          "duration" : 4320
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "3aaf0697f0894ad1",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499643339,
+          "stop" : 1647499647436,
+          "duration" : 4097
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "20b547a7941b6ea0",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499655623,
+          "stop" : 1647499659697,
+          "duration" : 4074
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "36d7921e8839e027",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499647443,
+          "stop" : 1647499651291,
+          "duration" : 3848
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "64fd75c94e2c88ae",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499627146,
+          "stop" : 1647499628019,
+          "duration" : 873
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "5d8b0e18d983a431",
+        "parentUid" : "ce70145016a7c142d35f291ab7094352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647499651297,
+          "stop" : 1647499655623,
+          "duration" : 4326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      } ],
+      "uid" : "ce70145016a7c142d35f291ab7094352"
+    }, {
+      "name" : "14228-MainThread",
+      "children" : [ {
+        "name" : "test_data",
+        "uid" : "58f009275fc63ed2",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503128973,
+          "stop" : 1647503128973,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "923db766adbeb0d2",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503130913,
+          "stop" : 1647503131683,
+          "duration" : 770
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "292848e69eccf799",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503165221,
+          "stop" : 1647503169286,
+          "duration" : 4065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "ded77b570e664e01",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503128976,
+          "stop" : 1647503129757,
+          "duration" : 781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "c780dc8e8c929e62",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503134321,
+          "stop" : 1647503138452,
+          "duration" : 4131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "19adf78c0c1881fd",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503146733,
+          "stop" : 1647503152685,
+          "duration" : 5952
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "80a096b0751e08ba",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503138458,
+          "stop" : 1647503142502,
+          "duration" : 4044
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "a344fb8ec00aba3b",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503131792,
+          "stop" : 1647503133119,
+          "duration" : 1327
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "f082902d9f331e9e",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503152805,
+          "stop" : 1647503157409,
+          "duration" : 4604
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "d72f1315bd87d03a",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503129757,
+          "stop" : 1647503130909,
+          "duration" : 1152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "eacfafb2b3ad5614",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503142507,
+          "stop" : 1647503146727,
+          "duration" : 4220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "ed5b254f58bbd554",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503169312,
+          "stop" : 1647503173205,
+          "duration" : 3893
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "ff4e0cd1a307540d",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503133122,
+          "stop" : 1647503134186,
+          "duration" : 1064
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "603719822c68eb24",
+        "parentUid" : "0378407402275ef10279da0f512bc0f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647503157516,
+          "stop" : 1647503165101,
+          "duration" : 7585
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      } ],
+      "uid" : "0378407402275ef10279da0f512bc0f4"
+    }, {
+      "name" : "37652-MainThread",
+      "children" : [ {
+        "name" : "test_get_token",
+        "uid" : "237f85740e5f52e4",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498755331,
+          "stop" : 1647498756114,
+          "duration" : 783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "ab8d5c57f72eed9d",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498765088,
+          "stop" : 1647498769053,
+          "duration" : 3965
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "de3700bd69192924",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498772992,
+          "stop" : 1647498776766,
+          "duration" : 3774
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "b9eba85b61432cdd",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498756118,
+          "stop" : 1647498757294,
+          "duration" : 1176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "4477b5e9b4a55333",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498780537,
+          "stop" : 1647498784562,
+          "duration" : 4025
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "9353273da625b734",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498776772,
+          "stop" : 1647498780531,
+          "duration" : 3759
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "6019d06bf08b03bb",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498755327,
+          "stop" : 1647498755327,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "a9fc562714f80093",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498788831,
+          "stop" : 1647498792675,
+          "duration" : 3844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "9de81f2e00659087",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498758068,
+          "stop" : 1647498759349,
+          "duration" : 1281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "452b5151dd50a76f",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498769068,
+          "stop" : 1647498772992,
+          "duration" : 3924
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "bd6c36b11f69ef4c",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498759353,
+          "stop" : 1647498760343,
+          "duration" : 990
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "805f389220b663f7",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498757298,
+          "stop" : 1647498758064,
+          "duration" : 766
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "422edc1374b1fa31",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498760343,
+          "stop" : 1647498765073,
+          "duration" : 4730
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "79398ef9fa0124a6",
+        "parentUid" : "068db6dd9c12259b64375a7facf1b1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498784568,
+          "stop" : 1647498788825,
+          "duration" : 4257
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      } ],
+      "uid" : "068db6dd9c12259b64375a7facf1b1a4"
+    }, {
+      "name" : "54548-MainThread",
+      "children" : [ {
+        "name" : "整体增删改查用户",
+        "uid" : "eafd3e171cf676f5",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496787254,
+          "stop" : 1647496791306,
+          "duration" : 4052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "1b695f72188a151d",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496774964,
+          "stop" : 1647496774964,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "3090046d0d24b84a",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496806327,
+          "stop" : 1647496810417,
+          "duration" : 4090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "f5dce7d719e2fd63",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496795155,
+          "stop" : 1647496798763,
+          "duration" : 3608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "f3aa0fa5c3439bf4",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496783489,
+          "stop" : 1647496787247,
+          "duration" : 3758
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "64c07355c8611bc2",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496778719,
+          "stop" : 1647496779702,
+          "duration" : 983
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "f7077edb1f479c69",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496776811,
+          "stop" : 1647496777515,
+          "duration" : 704
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "c8af1d518292d32a",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496774967,
+          "stop" : 1647496775739,
+          "duration" : 772
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "b4924293101c090f",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496798769,
+          "stop" : 1647496802603,
+          "duration" : 3834
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "596f79a578c90ff4",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496802608,
+          "stop" : 1647496806321,
+          "duration" : 3713
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "f52d3b4337abd713",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496777519,
+          "stop" : 1647496778715,
+          "duration" : 1196
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "4855abf1c8c881f5",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496791311,
+          "stop" : 1647496795149,
+          "duration" : 3838
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "29c052a4c4044f8a",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496775742,
+          "stop" : 1647496776808,
+          "duration" : 1066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "b3cbeb579c3769b3",
+        "parentUid" : "754395bba80c0c9105801dbfaed7ba8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647496779705,
+          "stop" : 1647496783483,
+          "duration" : 3778
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      } ],
+      "uid" : "754395bba80c0c9105801dbfaed7ba8a"
+    }, {
+      "name" : "59908-MainThread",
+      "children" : [ {
+        "name" : "整体增删改查用户",
+        "uid" : "504561a6050991ad",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498990592,
+          "stop" : 1647498994553,
+          "duration" : 3961
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "bd5c9b7e92c6a3e4",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498998406,
+          "stop" : 1647499002242,
+          "duration" : 3836
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "f5bcff8cd880b1d3",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498966759,
+          "stop" : 1647498967855,
+          "duration" : 1096
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "2fa9ecb1c22318e9",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498967859,
+          "stop" : 1647498968627,
+          "duration" : 768
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "465db724e5462a35",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498978855,
+          "stop" : 1647498982703,
+          "duration" : 3848
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "1ad71a986ee0e270",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498965869,
+          "stop" : 1647498966742,
+          "duration" : 873
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "de6f16e35e0aad8e",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498975006,
+          "stop" : 1647498978848,
+          "duration" : 3842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "3d1d63f1a2fec60c",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498994560,
+          "stop" : 1647498998401,
+          "duration" : 3841
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "56fc0844993b7575",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498970017,
+          "stop" : 1647498971010,
+          "duration" : 993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "dbd9b093803869f4",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498971014,
+          "stop" : 1647498974998,
+          "duration" : 3984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "709d8808cc886374",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498982709,
+          "stop" : 1647498986462,
+          "duration" : 3753
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "dcc09c6fc00c1e68",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498986470,
+          "stop" : 1647498990587,
+          "duration" : 4117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "a1d9e50d91b486d8",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498965856,
+          "stop" : 1647498965856,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "8a6f0beaef5d9d37",
+        "parentUid" : "db402697b0d5455ac0780bb55743d030",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647498968631,
+          "stop" : 1647498970013,
+          "duration" : 1382
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "db402697b0d5455ac0780bb55743d030"
+    }, {
+      "name" : "41812-MainThread",
+      "children" : [ {
+        "name" : "test_data",
+        "uid" : "99fbc07e077d59c5",
+        "parentUid" : "6064af50a0f504757c64559bd8601919",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647495852137,
+          "stop" : 1647495852137,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "8b78744a44c48b9",
+        "parentUid" : "6064af50a0f504757c64559bd8601919",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647495852140,
+          "stop" : 1647495966585,
+          "duration" : 114445
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6064af50a0f504757c64559bd8601919"
+    }, {
+      "name" : "56888-MainThread",
+      "children" : [ {
+        "name" : "整体增删改查用户",
+        "uid" : "10595e196af1049b",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488061942,
+          "stop" : 1647488066304,
+          "duration" : 4362
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000006'", "'名字6'", "'userid6'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "50a91ce17cfcd900",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488041014,
+          "stop" : 1647488046221,
+          "duration" : 5207
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000001'", "'名字1'", "'userid1'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "74be8a60f4723ef9",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488053936,
+          "stop" : 1647488057934,
+          "duration" : 3998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000004'", "'名字4'", "'userid4'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "9f00a0c01a8afbdf",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488066312,
+          "stop" : 1647488070497,
+          "duration" : 4185
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000007'", "'名字7'", "'userid7'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "fd23d4fad5aac5f9",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488035192,
+          "stop" : 1647488041008,
+          "duration" : 5816
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000000'", "'名字0'", "'userid0'" ]
+      }, {
+        "name" : "创建用户",
+        "uid" : "fe9d428e63bb2bb4",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488031100,
+          "stop" : 1647488032291,
+          "duration" : 1191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新用户用户",
+        "uid" : "42f18a6b9fc25c2",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488033022,
+          "stop" : 1647488034177,
+          "duration" : 1155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询用户",
+        "uid" : "ed4dc291e075316f",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488032296,
+          "stop" : 1647488033018,
+          "duration" : 722
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "1031abc805df5306",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488030086,
+          "stop" : 1647488031087,
+          "duration" : 1001
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "b40fd3aec279f0fe",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488057942,
+          "stop" : 1647488061935,
+          "duration" : 3993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000005'", "'名字5'", "'userid5'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "b376c39b7781cd70",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488046229,
+          "stop" : 1647488050159,
+          "duration" : 3930
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000002'", "'名字2'", "'userid2'" ]
+      }, {
+        "name" : "整体增删改查用户",
+        "uid" : "71569e08ad51c1f",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488050166,
+          "stop" : 1647488053929,
+          "duration" : 3763
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'13800000003'", "'名字3'", "'userid3'" ]
+      }, {
+        "name" : "test_data",
+        "uid" : "d5ea093f8e45ad72",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488030083,
+          "stop" : 1647488030083,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "3ac4b06da12a6709",
+        "parentUid" : "ffa0df158706cfbaf9dbf236b00d5bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647488034183,
+          "stop" : 1647488035188,
+          "duration" : 1005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ffa0df158706cfbaf9dbf236b00d5bf7"
+    }, {
+      "name" : "57800-MainThread",
+      "children" : [ {
+        "name" : "创建用户",
+        "uid" : "14602c899064a750",
+        "parentUid" : "449b7d8f4ad69790ee32f54c7f15331b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647495631472,
+          "stop" : 1647495734220,
+          "duration" : 102748
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_data",
+        "uid" : "b80a1dabccc1f346",
+        "parentUid" : "449b7d8f4ad69790ee32f54c7f15331b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647495606504,
+          "stop" : 1647495606504,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "5eb71a91cfbc5df",
+        "parentUid" : "449b7d8f4ad69790ee32f54c7f15331b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647495606507,
+          "stop" : 1647495630998,
+          "duration" : 24491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "449b7d8f4ad69790ee32f54c7f15331b"
+    } ],
+    "uid" : "6ab847735c07a00b08a9d6ee4ef6f96f"
+  } ]
+}
