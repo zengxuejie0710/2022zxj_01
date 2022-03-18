@@ -24,7 +24,7 @@ class Wework(BaseApi):
         self.token = Util().token() #不要忘了Util�?)
         self.params["token"]=self.token #要记得替换token的变�?
 
-        with open("WechatAPI/api/wework.yaml",encoding="utf-8")as f:
+        with open("./api/wework.yaml",encoding="utf-8")as f:
             self.data=yaml.load(f)
 
     def test_creat_member(self,userid,name,mobile,department=None):
